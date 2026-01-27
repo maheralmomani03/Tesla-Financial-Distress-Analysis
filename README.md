@@ -26,6 +26,7 @@ The Altman Z-Score is a world-renowned predictive model that uses five financial
 Below is the actual output from the Python model verifying Tesla's financial health:
 
 ![Tesla Analysis Result](./Tesla_Analysis_Result.png)
+![Tesla Financial Dashboard](./Tesla_PowerBI_Dashboard.png)
 
 *The model confirms a Z-Score of 10.16, indicating a very strong financial position.*
 ---
