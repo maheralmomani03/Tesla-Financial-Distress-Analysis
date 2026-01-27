@@ -19,8 +19,9 @@ The Altman Z-Score is a world-renowned predictive model that uses five financial
 ## 🛠️ Technology Stack
 - **Language:** Python 3.x
 - **Platform:** GitHub (Version Control)
-- **Domain:** Financial Analysis & Risk Management
-
+- **Domain:** Financial Analysis & Risk Management 
+- **Financial Modeling:** Microsoft Excel (v1.0 included)
+  
 ## 📊 Analysis Output
 Below is the actual output from the Python model verifying Tesla's financial health:
 
