@@ -21,5 +21,11 @@ The Altman Z-Score is a world-renowned predictive model that uses five financial
 - **Platform:** GitHub (Version Control)
 - **Domain:** Financial Analysis & Risk Management
 
+## 📊 Analysis Output
+Below is the actual output from the Python model verifying Tesla's financial health:
+
+![Tesla Analysis Result](./Tesla_Analysis_Result.png)
+
+*The model confirms a Z-Score of 10.16, indicating a very strong financial position.*
 ---
 *Created by Maher Al-Momani - Accounting & Data Analysis Student*
