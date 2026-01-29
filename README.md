@@ -29,3 +29,6 @@ Below is the actual output from the Python model verifying Tesla's financial hea
 ![Tesla Financial Dashboard](./Tesla_PowerBI_Dashboard.png)
 
 *The model confirms a Z-Score of 10.16, indicating a very strong financial position.
+---
+**Prepared by: Maher Al-Momani**
+*Accounting & Data Analysis Professional | CMA Candidate | Dubai, UAE 🇦🇪*
